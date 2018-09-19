@@ -1,0 +1,104 @@
+html, body {
+	padding: 0;
+	margin: 0;
+	overflow: hidden;
+	
+	background: #000000;
+	color: white;
+}
+
+html, body, canvas {
+	touch-action: none;
+	touch-action-delay: none;
+}
+
+@font-face {
+	font-family: 'JosefinSans-Bold';
+	src: url('fonts/josefinsans-bold.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'JosefinSans-BoldItalic';
+	src: url('fonts/josefinsans-bolditalic.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'JosefinSans-Italic';
+	src: url('fonts/josefinsans-italic.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'JosefinSans-Light';
+	src: url('fonts/josefinsans-light.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'JosefinSans-LightItalic';
+	src: url('fonts/josefinsans-lightitalic.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'JosefinSans-Regular';
+	src: url('fonts/josefinsans-regular.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'JosefinSans-SemiBold';
+	src: url('fonts/josefinsans-semibold.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'JosefinSans-SemiBoldItalic';
+	src: url('fonts/josefinsans-semibolditalic.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'JosefinSans-Thin';
+	src: url('fonts/josefinsans-thin.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'JosefinSans-ThinItalic';
+	src: url('fonts/josefinsans-thinitalic.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Lovelo Black';
+	src: url('fonts/lovelo black.otf') format('opentype');
+}
+
+@font-face {
+	font-family: 'Lovelo Line Bold';
+	src: url('fonts/lovelo line bold.otf') format('opentype');
+}
+
+@font-face {
+	font-family: 'Lovelo Line Light';
+	src: url('fonts/lovelo line light.otf') format('opentype');
+}
+
+@font-face {
+	font-family: 'museo-sans-rounded-300';
+	src: url('fonts/museo-sans-rounded-300.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'museosansrounded-700-webfont';
+	src: url('fonts/museosansrounded-700-webfont.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'VarelaRound-Regular';
+	src: url('fonts/varelaround-regular.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Nunito-SemiBold';
+	src: url('fonts/nunito-semibold.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Nunito-Bold';
+	src: url('fonts/nunito-bold.ttf') format('truetype');
+}
+
